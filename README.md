@@ -36,8 +36,8 @@
 ## 🌟 Projects
 
 
-### 📌 [Project 1 Title](https://github.com/tu-repo)
-Brief description of the project and its significance in Data Science.
+### 📌 [TFG: Entropy footprints in Self-Organized Criticality](https://github.com/Jheivy/TFG_SOC)
+Final degree project of the degree in Physics at the University of Salamanca
 
 ### 📌 [Project 2 Title](https://github.com/tu-repo)
 Brief description of the project and its significance in Data Science.
