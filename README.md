@@ -45,7 +45,7 @@ Brief description of the project and its significance in Data Science.
 ---
 ## 📘 Resources
 
-### 📖 [LaTeX Guide](https://github.com/tu-repo/latex-guide)
+### 📖 [LaTeX Guide](https://github.com/Jheivy/My-guide-to-laTeX)
 A comprehensive guide to mastering LaTeX, including tips for beginners and advanced users. Perfect for creating professional documents and reports.
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"><b> Let's Connect..!</b>
