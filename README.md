@@ -1,4 +1,5 @@
 <h1 align="center"><b>Hi, I'm Jheivy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![Banner](https://github.com/Jheivy/Jheivy/blob/main/github-header-image.png?raw=true)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist+in+the+making;4th+Year+Physics+Student;Machine+Learning+Enthusiast;Passionate+about+Data+Analysis"></a>
