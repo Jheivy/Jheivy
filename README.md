@@ -1,4 +1,4 @@
-![alt README header](https://github.com/Jheivy/Jheivy/blob/main/github-header-image.png)
+![alt README header](https://github.com/Jheivy/Jheivy/blob/main/Aspiring%20Data%20Scientist.png)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist+in+the+making;4th+Year+Physics+Student;Machine+Learning+Enthusiast;Passionate+about+Data+Analysis"></a>
