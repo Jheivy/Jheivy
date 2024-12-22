@@ -39,8 +39,8 @@
 ### 📌 [TFG: Entropy footprints in Self-Organized Criticality](https://github.com/Jheivy/TFG_SOC)
 Final degree project of the degree in Physics at the University of Salamanca
 
-### 📌 [FermentDynamics](https://github.com/tu-repo)
-Brief description of the project and its significance in Data Science.
+### 📌 [FermentDynamics](https://github.com/FermentDynamics)
+Program to study fermentation in masses of different bacteria.
 
 ---
 ## 📘 Resources
