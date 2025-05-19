@@ -34,7 +34,8 @@
 ---
 
 ## 🌟 Projects
-
+### 📌 [Kinetic Theory Of Non Equlibrium Systems](https://github.com/Jheivy/Kinetic-theory-of-non-equilibrium-systems)
+Work on the kinetic theory out of equilibrium.
 
 ### 📌 [TFG: Entropy footprints in Self-Organized Criticality](https://github.com/Jheivy/TFG_SOC)
 Final degree project of the degree in Physics at the University of Salamanca
